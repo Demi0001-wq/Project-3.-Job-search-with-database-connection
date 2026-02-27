@@ -4,15 +4,15 @@ This project automates the process of collecting job vacancy data from HH.ru, st
 
 ## Features
 
-- **API Integration**: Fetches real-time data for 10 prominent tech companies via HH.ru Public API.
-- **Database Automation**: Automatically creates the database schema and populates tables.
-- **Analytical Manager**: `DBManager` class provides easy methods for:
+- API Integration: Fetches real-time data for 10 prominent tech companies via HH.ru Public API.
+- Database Automation: Automatically creates the database schema and populates tables.
+- Analytical Manager: `DBManager` class provides easy methods for:
     - Company vacancy counts.
     - Comprehensive vacancy listings.
     - Average salary calculations.
     - Filtering high-salary roles.
     - Keyword-based search.
-- **User Interface**: Interactive console menu for easy data exploration.
+- User Interface: Interactive console menu for easy data exploration.
 
 ## Prerequisites
 
